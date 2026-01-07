@@ -1,0 +1,6 @@
+@ScalarWebApi_HostAddress = http://localhost:5134
+
+GET {{ScalarWebApi_HostAddress}}/
+Accept: application/json
+
+###
